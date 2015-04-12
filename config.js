@@ -35,8 +35,8 @@ var config = {
   cnzz_tracker_id: '1254768715',
 
   // mongodb 配置
-  db: 'mongodb://127.0.0.1/node_club_dev',
-  db_name: 'node_club_dev',
+  db: 'mongodb://127.0.0.1/37iot_club_dbs',
+  db_name: '37iot_club_dbs',
 
   // redis 配置，默认是本地
   redis_host: '127.0.0.1',
