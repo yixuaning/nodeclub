@@ -11,7 +11,7 @@ var config = {
   get mini_assets() { return !this.debug; }, // 是否启用静态文件的合并压缩，详见视图中的Loader
 
   name: '37IOT', // 社区名字
-  description: '37IOT：物联网开发专业论坛// 社区的描述
+  description: '37IOT：物联网开发专业论坛', // 社区的描述
   keywords: 'IOT, 物联网, 物联网论坛, 37IOT, 物联网社区',
 
   // 添加到 html head 中的信息
