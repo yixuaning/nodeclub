@@ -19,7 +19,7 @@ var config = {
     '<meta name="author" content="yasin.guo@aliyun.com" />'
   ],
   site_logo: '/public/images/37iot.svg', // default is `name`
-  site_icon: '/public/images/cnode_icon_32.png', // 默认没有 favicon, 这里填写网址
+  site_icon: '/public/images/37iot_icon_32.png', // 默认没有 favicon, 这里填写网址
   // 右上角的导航区
   site_navs: [
     // 格式 [ path, title, [target=''] ]
